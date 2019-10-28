@@ -1,0 +1,49 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "MrXavierJhipster",
+    "packageName": "com.luancomputacao.mrxavier",
+    "packageFolder": "com/luancomputacao/mrxavier",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "en",
+      "pt-br"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "MDZiYjJlZTVjYzE5MTM0MzgyZmM2OWRjNDhhM2RiYzQwNjgzYjhjYjJiN2U4ZTliMDMyNWE4MjZhMmEyZjE4ODA3ZjMxNmY3MjIyMWQ5MTFiOWIxMjRhYWU0MzEyZWNlNmRlMjkwNWU5OTA5ZGY3OWRlZTNmNGI4MzI3ZDg3ODk=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "LuanComputacao",
+  "repository-name": "mr_xavier_jhipster"
+}
